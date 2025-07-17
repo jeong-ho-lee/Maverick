@@ -7,7 +7,8 @@
 You can just simply execute **Maverick.exe**. **resources** folder must be placed in the same directory with execution file to play it properly.
 
 # How to play
-Arrow keys for movement, L Ctrl to shoot. If you crash with aircrafts, game over.
+**Arrow keys** for movement, **L Ctrl** to shoot. If you crash with aircrafts, game over.  
+Survive as long as you can.
 
 # Additional Information
 For detailed information, check out **Maverick.pdf** and for full code, check out **Maverick.py**.
